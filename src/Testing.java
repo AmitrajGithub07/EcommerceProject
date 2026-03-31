@@ -1,6 +1,6 @@
 public class Testing {
 
         public static void main(String[] args) {
-            System.out.println("Java 17 is working!");
+            System.out.println("Testing java 17");
         }
 }
